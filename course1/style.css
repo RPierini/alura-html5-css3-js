@@ -1,0 +1,15 @@
+
+body{
+    background-color: #020202;
+    color: #B9001D;
+}
+
+strong {
+    color: #BDC667;
+}
+
+span {
+    color: #BDC667;
+    border: 1px solid #BDC667;
+    padding: 10px;
+}
