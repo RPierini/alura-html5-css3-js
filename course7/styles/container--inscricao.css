@@ -65,6 +65,12 @@
     align-items: center;
 }
 
+.container__incricao--form-input button:hover {
+    background: var(--lilas-escuro);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
 @media screen and (min-width: 768px) {
 
     /* Seção inscrição */

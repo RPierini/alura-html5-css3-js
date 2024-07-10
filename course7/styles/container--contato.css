@@ -92,6 +92,12 @@
     font-weight: 600;
 }
 
+.container__contato .container__contato--form button:hover {
+    background: var(--lilas-escuro);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
 @media screen and (min-width: 768px) {
 
     .container__contato {
