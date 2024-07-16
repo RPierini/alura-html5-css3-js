@@ -18,6 +18,10 @@
   list-style: none;
 }
 
+fieldset {
+  border: none;
+}
+
 button {
   background: transparent;
   border: none;
