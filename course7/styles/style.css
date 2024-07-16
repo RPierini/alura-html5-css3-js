@@ -6,7 +6,9 @@
   --azul-botao: #4163DA;
   --lilas-claro: #85A0FF;
   --lilas-escuro: #0C0421;
+  --azul-escuro: #4675FF;
   --branco: #FFFFFF;
+  font-size: 62.5%;
 }
 
 * {
