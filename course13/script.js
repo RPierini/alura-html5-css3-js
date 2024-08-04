@@ -54,7 +54,6 @@ function filtrarPorCategoria (filtro) {
     const listaVideos = document.querySelectorAll(".videos__item")
 
     listaVideos.forEach((itemVideo) => {
-        debugger
         let categoriaVideo = itemVideo.querySelector('.categoria').textContent.toLowerCase()
         let valorFiltro = filtro.toLowerCase()
 
